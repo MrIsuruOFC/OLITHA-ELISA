@@ -56,7 +56,7 @@ global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
 global.ONLY_PREFIX = false
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
-global.UPLOAD_MAX = false
+global.UPLOAD_MAX = true
 //👇 Desabale Bot inbox ඉන්බොක්ස් බ්ලොක් නොවී වැඩ නොකරන්නනම් 
 global.DISABLE_INBOX = true 
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
@@ -89,7 +89,7 @@ global.botnma =  '*𝔻𝔸ℝ𝕂 𝔻𝔼𝕍𝕀𝕃 𝕄𝔻 𝕍3 𝛁*'
 //👇 Your name
 global.ownernma =  'ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  'ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -114,10 +114,11 @@ global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*💗 Dark Devil Whatsapp B
 Hello there I am Online ! 
 *ᴛʏᴘᴇ |.menu| ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴍᴅ ʟɪꜱᴛ.*
 
-*🧑‍💻 ᴏᴡɴᴇʀ  :* ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ ( https://github.com/isuru-new )
+*🧑‍💻 ᴏᴡɴᴇʀ  :* ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ
+( https://github.com/MrIsuruOFC )
 *🧬 ᴠᴇʀꜱɪᴏɴ :* 3.9.6
 *🗃️ ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ 1 :* _https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq_
-*🗃️ ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ 2 :* _https://chat.whatsapp.com/K6HuFtdomVkJpyp5K4t9tF_
+*🗃️ ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ 2 :* _https://chat.whatsapp.com/DZVMfZtAqRJGXQI8LnF7cW_
 *📲 ɪɴꜱᴛᴀʟʟ ʙᴏᴛ :* _https://tinyurl.com/install-elisa-bot_
 
 🫀© *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ*`
