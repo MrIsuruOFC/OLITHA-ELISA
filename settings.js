@@ -83,11 +83,11 @@ global.AUTO_SEEN_STATUS = true
 // You Bots Owner Number 
 global.owner = ['94766632281'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙳𝙰𝚁𝙺 𝙳𝙴𝚅𝙸𝙻 ²⁰²³'
+global.cap = '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴇʟɪꜱᴀ-ᴍᴅ'
 //👇 Your Bot Name
-global.botnma =  '*𝔻𝔸ℝ𝕂 𝔻𝔼𝕍𝕀𝕃 𝕄𝔻 𝕍3 𝛁*' 
+global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ' 
+global.ownernma =  '『 ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ 』' 
 //👇 Sticker Author Name
 global.packname =  'ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ' 
 //👇 Inbox Block Massage 
@@ -107,27 +107,27 @@ global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://i.ibb.co/3NfPXjd/20231221-150801.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://i.ibb.co/58dZphD/20231228-195502.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*💗 Dark Devil Whatsapp Bot 💗*
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*Hello I am Alive Now !*
 
-Hello there I am Online ! 
-*ᴛʏᴘᴇ |.menu| ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴍᴅ ʟɪꜱᴛ.*
 
-*🧑‍💻 ᴏᴡɴᴇʀ  :* ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ
-( https://github.com/MrIsuruOFC )
-*🧬 ᴠᴇʀꜱɪᴏɴ :* 3.9.6
-*🗃️ ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ 1 :* _https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq_
-*🗃️ ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ 2 :* _https://chat.whatsapp.com/DZVMfZtAqRJGXQI8LnF7cW_
-*📲 ɪɴꜱᴛᴀʟʟ ʙᴏᴛ :* _https://tinyurl.com/install-elisa-bot_
+*ʙᴏᴛ ɴᴀᴍᴇ* : Qᴜᴇᴇɴ ᴇʟɪꜱᴀ-ᴍᴅ
+*ᴠᴇʀꜱɪᴏɴ* : 3.9.7
+*ʙᴏᴛ ᴏᴡɴᴇʀ* : 『 ᴍʀ | ɪꜱᴜʀᴜ ᴄᴍ 』
+*ɴᴜᴍʙᴇʀ* : http://Wa.me/+94766632281
+*ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ* : https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq
+*ɢɪᴛʜᴜʙ* : github.com/MrIsuruOFC
 
-🫀© *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ*`
+*ᴘᴏᴡᴇʀᴅ ʙʏ ᴍʀ | ɪꜱᴜʀᴜ ᴄᴍ*
+
+*Thanks for using Me.*`
 //👇 Welcome Mesaage
-global.WELCOME = process.env.WELCOME || `*_හායි ලස්සන ළමයෝ..._*😼💖`
+global.WELCOME = process.env.WELCOME || `*_හායි ලස්සන ළමයෝ..._* 😼💖`
 //👇 welcome image 
 global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `https://i.ibb.co/wKw3zfh/1a3a68369698cd91b4754f2051fd28a4.jpg`
 //👇 Goodbye message 
-global.GOODBYE = process.env.GOODBYE || `*_ꜰᴜᴄᴋ ʏᴏᴜ ᴀɴᴅ ʙʏᴇ_*😼💀`
+global.GOODBYE = process.env.GOODBYE || `*_ꜰᴜᴄᴋ ʏᴏᴜ ᴀɴᴅ ʙʏᴇ_* 😼💀`
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `https://i.ibb.co/M7WpwFJ/c24d955d701d4387b1b88d9f03fc283c.jpg`
 //👇 DISABLE PM Block numbers
