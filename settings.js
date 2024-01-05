@@ -83,9 +83,9 @@ global.AUTO_SEEN_STATUS = true
 // You Bots Owner Number 
 global.owner = ['94766632281'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴇʟɪꜱᴀ-ᴍᴅ'
+global.cap = '► ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 𝛁' 
 //👇 Your name
 global.ownernma =  '『 ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ 』' 
 //👇 Sticker Author Name
@@ -109,19 +109,30 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://i.ibb.co/58dZphD/20231228-195502.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*Hello I am Alive Now !*
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `𝙃𝙚𝙮, 𝙞'𝙢 𝙖 𝙒𝘼 𝙗𝙤𝙩 👾
 
+⦁ *I'm working on this time.* 🔥
+⦁ *I'll help you as much as I can.* 😊
+_____________________
 
-*ʙᴏᴛ ɴᴀᴍᴇ* : Qᴜᴇᴇɴ ᴇʟɪꜱᴀ-ᴍᴅ
-*ᴠᴇʀꜱɪᴏɴ* : 3.9.7
-*ʙᴏᴛ ᴏᴡɴᴇʀ* : 『 ᴍʀ | ɪꜱᴜʀᴜ ᴄᴍ 』
-*ɴᴜᴍʙᴇʀ* : http://Wa.me/+94766632281
-*ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ* : https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq
-*ɢɪᴛʜᴜʙ* : github.com/MrIsuruOFC
+*✑ Songs downloading,*
+*✑ Videos downloading,*
+*✑ APK downloading,*
+*✑ Chat with GPT*
+*✻ And you can get many more features.*
+_____________________
 
-*ᴘᴏᴡᴇʀᴅ ʙʏ ᴍʀ | ɪꜱᴜʀᴜ ᴄᴍ*
+• *𝙱𝙾𝚃 𝙽𝙰𝙼𝙴* : Q̴u̴e̴e̴n̴ E̴l̴i̴s̴a̴
+• *𝙱𝙾𝚃 𝙳𝙴𝚅𝙴𝚁𝙻𝙾𝙿𝙴𝚁* : M̴r̴ N̴i̴m̴a̴
+(_https://github.com/DarkMakerofc_)
+• *𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁* : M̴r̴ I̴s̴u̴r̴u̴
+(_https://github.com/MrIsuruOFC_)
+• *𝙿𝚄𝙱𝙻𝙸𝙲 𝙶𝚁𝙾𝚄𝙿* : _https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq_
+_____________________
 
-*Thanks for using Me.*`
+✧ *If you have a problem, notify to me* : _http://Wa.me/+94766632281_
+_____________________
+*► ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ*`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || `*_හායි ලස්සන ළමයෝ..._* 😼💖`
 //👇 welcome image 
